@@ -8,5 +8,8 @@ Collection of simple Greasemonkey/Tampermonkey user scripts.
 - **remove-ads.user.js** – Hides common advertisement elements on pages.
 - **copy-to-clipboard.user.js** – Adds a button to copy code blocks to the clipboard.
 - **dark-mode-toggle.user.js** – Enables a keyboard shortcut (Ctrl+D) to toggle dark mode.
+- **open-external-links-new-tab.user.js** – Forces external links to open in a new tab.
+- **scroll-to-top.user.js** – Provides a floating button to quickly jump back to the top.
+- **auto-expand-textareas.user.js** – Grows textareas as you type so all content is visible.
 
 Scripts are located in the `scripts` directory. Install any of them in your userscript manager to enable the described behaviors.
